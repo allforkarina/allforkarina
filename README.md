@@ -16,11 +16,11 @@
 
 ## About Me
 
-* 🎓 Communication Engineering student at the **University of Electronic Science and Technology of China**
-* 🔭 Working on **WiFi CSI-based wireless sensing and human pose estimation**
-* 🧠 Interested in **intelligent sensing, multimodal learning and robust cross-domain perception**
-* 🛠️ Building reproducible deep-learning pipelines for wireless perception research
-* 📖 Exploring the combination of signal processing, computer vision and artificial intelligence
+* 🎓 Junior student entering my senior year, majoring in **Communication Engineering** at the **University of Electronic Science and Technology of China**
+* 📡 Preparing for graduate research in **radar-based embodied intelligence** and **large-model-enhanced radar imaging**
+* 🧠 Passionate about **artificial intelligence**, especially embodied intelligence, large language models and intelligent sensing
+* 🚀 Currently focused on learning and building systems related to **embodied AI** and **large models**
+* 🛠️ Exploring **AI Agent development** as a personal interest and side project
 
 ## Research Interests
 
@@ -38,7 +38,6 @@
 | [WiFiPoseV3](https://github.com/allforkarina/WiFiPoseV3)             | Research implementation for WiFi CSI-based human pose estimation           |
 | [WiFiPoseV2](https://github.com/allforkarina/WiFiPoseV2)             | Deep-learning system for estimating human poses from WiFi signals          |
 | [MetaFi](https://github.com/allforkarina/MetaFi)                     | Reproduction and experimentation of MetaFi++ on the MM-Fi dataset          |
-| [CrossFi](https://github.com/allforkarina/CrossFi)                   | Reproduction and evaluation of the CrossFi wireless sensing method         |
 | [Channel Encoding](https://github.com/allforkarina/Channel_Encoding) | MATLAB simulations of multiple channel-coding algorithms                   |
 
 ## Tech Stack
@@ -48,7 +47,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square" alt="MATLAB"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -67,6 +65,13 @@
 ---
 
 <div align="center">
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=allforkarina"
+    alt="Top Languages"
+  />
+</div>
 
 <sub>Bridging wireless signals, intelligent sensing and human-centered perception.</sub>
 
