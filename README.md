@@ -71,6 +71,25 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=allforkarina)
 
+<h2 align="center">Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/allforkarina/allforkarina/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/allforkarina/allforkarina/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/allforkarina/allforkarina/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+
 <sub>Bridging radar, embodied intelligence and human-centered perception.</sub>
 
 </div>
