@@ -69,10 +69,6 @@
   />
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=allforkarina)
-
-<h2 align="center">Contribution Snake</h2>
-
 <div align="center">
   <picture>
     <source
