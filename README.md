@@ -55,25 +55,16 @@
 
 ## GitHub Metrics
 
-<div align="center">
-  <img
-    src="https://metrics.lecoq.io/allforkarina?template=classic&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai"
-    alt="GitHub Metrics"
-  />
-</div>
+<img
+  src="https://metrics.lecoq.io/allforkarina?template=classic&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai"
+  alt="GitHub Metrics"
+/>
 
 ---
 
-<div align="center">
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=allforkarina)
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=allforkarina"
-    alt="Top Languages"
-  />
-</div>
-
-<sub>Bridging wireless signals, intelligent sensing and human-centered perception.</sub>
+<sub>Bridging radar, embodied intelligence and human-centered perception.</sub>
 
 </div>
 
