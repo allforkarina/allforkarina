@@ -60,7 +60,7 @@
   alt="GitHub Metrics"
 />
 
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=allforkarina)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=allforkarina)
 
