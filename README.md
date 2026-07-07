@@ -55,12 +55,19 @@
 
 ## GitHub Metrics
 
-<img
-  src="https://metrics.lecoq.io/allforkarina?template=classic&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai"
-  alt="GitHub Metrics"
-/>
+<div align="center">
+  <img
+    src="https://metrics.lecoq.io/allforkarina?template=classic&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai"
+    alt="GitHub Metrics"
+  />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=allforkarina)
+  <br />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=allforkarina"
+    alt="GitHub Streak"
+  />
+</div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=allforkarina)
 
